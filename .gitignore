@@ -1,3 +1,4 @@
-.ipynb*
+.ipynb_checkpoints*
 master.zip
 R-vs-Python-master*
+ml-latest-small*
