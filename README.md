@@ -1,5 +1,5 @@
 # COM4509/6509 Machine Learning and Adaptive Intelligence - University of Sheffield
-## Autumn 2019 by Mauricio A Álvarez (1-5) and Haiping Lu (6-9)
+## Autumn 2019 by Mauricio A Álvarez (1-5) and Haiping Lu (6-10)
 * Session 1: Introduction to Machine Learning and Review of Probability
 * Session 2: Objective functions
 * Session 3: Linear regression
@@ -9,7 +9,7 @@
 * Session 7: Unsupervised learning & DL intro
 * Session 8: Naive Bayes & **review**
 * Session 9: Logistic regression & DL intro
-* Session 10: Other topics
+* Session 10: Guest Lecture by [Neil Lawrence](https://inverseprobability.com/) & More DL lab
 
 ## Module delivery plan
 
